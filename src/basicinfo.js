@@ -8,7 +8,6 @@ class BasicInfo extends Component {
         <h1>Name: {person.name}</h1>
         <p>Number: {person.number}</p>
         <p>Date of Birth: {person.dob}</p>
-        {/* Render other info from person object */}
       </div>
     );
   }
